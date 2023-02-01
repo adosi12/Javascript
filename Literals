@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h2>Javascript Template Literals</h2>
+    <p id="demo"></p>
+    <p>Template literals are not supported in Internet Explorer.</p>
+    <script>
+        let text = 'rghchgcbjgkbc';
+        document.getElementById('demo').innerHTML = text;
+    </script>
+</body>
+
+</html>
